@@ -1,4 +1,19 @@
-123
-dp
-
-night10pm
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Green Test Page</title>
+    <style>
+        body {
+            background-color: blue;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding-top: 20%;
+        }
+    </style>
+</head>
+<body>
+    <h1> BLUE Nginx is Running!</h1>
+    <p>This is a green test page.</p>
+</body>
+</html>
